@@ -5,9 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class Principal extends AppCompatActivity {
-
-    Button boton;
+public class Principal extends AppCompatActivity implements View.OnClickListener{
 
 
 
@@ -15,9 +13,13 @@ public class Principal extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
-        boton=(Button) findViewById(R.id.boton);
+
     }
 
+
+    public void onClick(View v){
+
+    }
 
 
 
