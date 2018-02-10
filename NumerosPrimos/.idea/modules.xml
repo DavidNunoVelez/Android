@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NumerosPrimos.iml" filepath="$PROJECT_DIR$/NumerosPrimos.iml" />
-      <module fileurl="file://C:\Users\morfe\Documents\1a Clase\2\DI\Android\Git\Android\NumerosPrimos\NumerosPrimos.iml" filepath="C:\Users\morfe\Documents\1a Clase\2\DI\Android\Git\Android\NumerosPrimos\NumerosPrimos.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\morfe\Documents\1a Clase\2\DI\Android\Git\Android\NumerosPrimos\app\app.iml" filepath="C:\Users\morfe\Documents\1a Clase\2\DI\Android\Git\Android\NumerosPrimos\app\app.iml" />
     </modules>
   </component>
 </project>
